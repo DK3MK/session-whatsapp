@@ -1,0 +1,13 @@
+{
+  "name": "md-baileys-qr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.1.0",
+    "pino": "^7.0.5",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.1",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
