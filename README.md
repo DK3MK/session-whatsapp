@@ -6,7 +6,7 @@ apt update
 apt upgrade
 pkg install nodejs
 
-git clone https://github.com/Dark-Man747/session-whatsapp
+git clone https://github.com/DK3MK/session-whatsapp
 cd session-whatsapp
 unzip node_modules.zip
 
